@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+ExerciseTwo/.vsconfig
+ExerciseTwo/Assets/TextMesh Pro/
+ExerciseTwo/Library/Artifacts/
+ExerciseTwo/Library/Bee/
+ExerciseTwo/Library/BurstCache
+ExerciseTwo/Library/PackageCache
+ExerciseTwo/Library/ShaderCache
